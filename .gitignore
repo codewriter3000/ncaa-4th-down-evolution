@@ -1,1 +1,3 @@
 .conda/
+scraper.http
+scraper.py

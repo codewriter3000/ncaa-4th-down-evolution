@@ -1,0 +1,2 @@
+# 4th Down Evolution in NCAA Football
+I am investigating if NCAA football teams have been evolving their 4th down strategies based on play-by-play and drive data from https://www.collegefootballdata.com
